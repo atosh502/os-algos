@@ -4,6 +4,6 @@
 * **First Come First Serve** 
 * **Banker's Algorithm**
 ## Compile
-~ g++ filename.cpp ~
+` g++ filename.cpp `
 ## Run
-~ ./a.out ~
+` ./a.out `
